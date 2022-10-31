@@ -1,0 +1,23 @@
+7
+P Budapest
+L Lottery 500
+S Penalty 500
+P Debrecen
+P Sopron
+L Lotto 250
+S Loan 250
+3
+G Murad
+T Vugar
+C Makhlug
+10
+6
+12
+5
+2
+6
+7
+12
+9
+12
+12
